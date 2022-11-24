@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class TodoBusinessImplTest {
+public class TodoBusinessImplStubTest {
 
     @Test
     public void retrieveTodos_usingStub() {
