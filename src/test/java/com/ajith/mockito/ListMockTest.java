@@ -1,4 +1,4 @@
-package com.ajith.business;
+package com.ajith.mockito;
 
 import com.ajith.service.TodoService;
 import org.junit.Test;
