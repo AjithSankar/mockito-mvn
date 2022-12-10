@@ -7,7 +7,7 @@ import java.util.List;
 
 public class TodoBusinessImpl {
 
-    private TodoService todoService;
+    private final TodoService todoService;
 
     public TodoBusinessImpl(TodoService todoService) {
         this.todoService = todoService;
